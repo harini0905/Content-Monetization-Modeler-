@@ -1,4 +1,4 @@
-# 📺 Content Monetization Modeler: YouTube Ad Revenue Prediction
+# 📺 Content Monetization Modeler
 
 ## 📌 Project Overview
 
@@ -12,19 +12,19 @@ The project utilizes data preprocessing, feature engineering, regression modelin
 
 ### 🏠 Home Page
 
-![Home Page](Screenshots/Home_Page.png)
+![Home Page](Screenshots/Home%20Page.png)
 
 ### 💰 Predict Revenue Page
 
-![Prediction Page](Screenshots/Prediction_Page.png)
+![Prediction Page](Screenshots/Prediction%20Page.png)
 
 ### ✅ Prediction Result
 
-![Prediction Result](Screenshots/Prediction_Result.png)
+![Prediction Result](Screenshots/Prediction%20Result.png)
 
 ### 📊 Visualizations Dashboard
 
-![Visualizations](Screenshots/Visualizations_Page.png)
+![Visualizations](Screenshots/Visualizations%20Page.png)
 
 ---
 
